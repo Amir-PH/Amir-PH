@@ -14,7 +14,7 @@
 ## 🔧 Discord Status
 [![Discord Presence]
 (https://lanyard.cnrad.dev/api/^AmirPH#5185)]
-(https://discord.com/users/https://discord.com/users/950719519381401601))
+(https://discord.com/users/https://discord.com/users/^AmirPH#5185))
 
 
 
