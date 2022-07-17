@@ -10,8 +10,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=Amir-PH&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amir-PH&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-PH&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-### Discord Status
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/950719519381401601)](https://discord.com/users/950719519381401601)
+
+## 🔧 Discord Status
+[![Discord Presence](https://lanyard.cnrad.dev/api/581390064123117578)](https://discord.com/users/950719519381401601)
+
 
 
 
