@@ -12,9 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-PH&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🔧 Discord Status
-[![Discord Presence]
-(https://lanyard.cnrad.dev/api/^AmirPH#5185)]
-(https://discord.com/users/https://discord.com/users/^AmirPH#5185))
+[![Discord Presence](https://lanyard.cnrad.dev/api/^AmirPH#5185)](https://discord.com/users/https://discord.com/users/^AmirPH#5185))
 
 
 
